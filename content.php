@@ -28,7 +28,7 @@ return array (
   'Edit the profile' => '',
   'Group ' => '',
   'Latitude' => '',
-  'Life sphere' => '',
+  'Life sphere' => 'Topic',
   'Longitude' => '',
   'Mode ' => '',
   'Organization' => '',

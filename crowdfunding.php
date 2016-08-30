@@ -85,7 +85,7 @@ return array (
   'It`s done' => '',
   'Kind regards, ' => '',
   'Latitude' => '',
-  'Life sphere' => '',
+  'Life sphere' => 'Topic',
   'Longitude' => '',
   'Make a test payment' => '',
   'Moderating' => '',

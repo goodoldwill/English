@@ -40,7 +40,7 @@ return array (
   'Mark the places you care about. You’ll receive notifications about the events and the news from these places.' => '',
   'Month' => '',
   'Nobody' => '',
-  'Organizator' => '',
+  'Organizator' => 'Organizer',
   'Personal Information' => '',
   'Petition' => '',
   'Poll' => '',
