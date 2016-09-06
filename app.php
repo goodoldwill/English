@@ -61,7 +61,7 @@ return array (
   'Abstracts' => '',
   'Accept notifications on new issues and polls and help. Together we are stronger!' => '',
   'According to the country ' => '',
-  'According to the law on citizens’ appeals you should enter your contact address.' => 'In accordance with legal requirements regarding public petitions, you are obliged to provide your home address',
+  'According to the law on citizens’ appeals you should enter your contact address.' => 'Provide your home address',
   'Action' => '',
   'Action`s page' => '',
   'Active citizens' => '',
