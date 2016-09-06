@@ -319,7 +319,7 @@ return array (
   'Edit the partner' => '',
   'Editing orders № ' => '',
   'Editing the tag' => '',
-  'Elections' => '',
+  'Elections' => 'Local politics',
   'Element' => '',
   'Empty or incorrect link' => '',
   'End date' => '',

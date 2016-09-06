@@ -31,7 +31,7 @@ return array (
   'Articles Yoda ' => '',
   'Attract the attention of the group - ' => '',
   'Authorization ' => '',
-  'Be aware of fascinating events in your city and post about the ones you hold.' => 'Find out about local events an create your own and promote it via social media',
+  'Be aware of fascinating events in your city and post about the ones you hold.' => 'Find out about local events, create your own and promote it via social media',
   'Be aware of the most exciting city initiatives, participate in the discussions and help to make the city better' => 'Find out what is happening in your city, talk about local issues that matter to you.',
   'Be aware of the most important community initiatives in different cities of Russia' => '',
   'Become an activist - ' => '',
