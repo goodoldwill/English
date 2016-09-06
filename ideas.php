@@ -99,7 +99,7 @@ return array (
   'Place on the map' => '',
   'Post' => '',
   'Posted' => '',
-  'Project author' => 'Idea started by',
+  'Project author' => 'Idea created by',
   'Project geography' => 'Location',
   'Project of' => '',
   'Project of {profile}:' => '',
