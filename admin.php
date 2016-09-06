@@ -188,7 +188,7 @@ return array (
   'Choose an image' => '',
   'Choose notification letter`s sample' => '',
   'Cities' => '',
-  'City’s life sphere' => '',
+  'City’s life sphere' => 'Topic',
   'Click here to add the candidate' => '',
   'Click on the photo or video to enter<br>a description or to specify the author' => '',
   'Clone' => '',

@@ -203,7 +203,7 @@ return array (
   'City`s  popular <br /> places' => '',
   'City`s mayor' => '',
   'City`s residents who want to join your group' => '',
-  'City’s life sphere' => '',
+  'City’s life sphere' => 'Topic',
   'Click on the photo or video to enter
 			a description or to specify the author' => '',
   'Close' => '',
