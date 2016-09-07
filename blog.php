@@ -124,7 +124,7 @@ return array (
   'Raises funds' => '',
   'Read the stories of city residents on the most current events' => '',
   'Reference ' => '',
-  'Registration ' => '',
+  'Registration ' => 'Sign up',
   'Reports - ' => '',
   'Reshipment confirmation code - ' => '',
   'Search for people - ' => '',

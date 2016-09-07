@@ -22,7 +22,7 @@ return array (
   'He said its mayor | consider it the mayor ' => '',
   'Life around {br /} I ' => '',
   'Local control {br /} town ' => '',
-  'Log in' => '',
+  'Log in' => 'Sign in',
   'Management at {br /} state ' => '',
   'My Page' => '',
   'My city' => '',

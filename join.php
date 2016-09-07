@@ -41,7 +41,7 @@ return array (
   'Password to login ' => '',
   'Phone number' => '',
   'Please, confirm the e-mail address' => '',
-  'Registration' => '',
+  'Registration' => 'Sign up',
   'Save' => '',
   'Send again' => '',
   'Set password ' => '',
@@ -60,5 +60,5 @@ return array (
   'We`ve sent on the number {phoneNumber}{br /}a text message with the confirmation code' => '',
   'We’ll send you a link you’ll {br /} need to go for the confirmation' => '',
   'You have already sent a request to support this appeal. Check your e-mail for email with a link to confirm. ' => '',
-  'log in' => '',
+  'log in' => 'Sign in',
 );
