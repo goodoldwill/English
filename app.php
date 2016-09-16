@@ -1147,7 +1147,7 @@ return array (
   'You may be the first' => '',
   'You may participate in the city`s issues discussion' => '',
   'You must enter the e-mail ' => '',
-  'You participate in the life of' => '',
+  'You participate in the life of' => 'Is this your city?',
   'You shared a link' => '',
   'You signed' => '',
   'You want to participate in the life of' => '',

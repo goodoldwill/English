@@ -52,7 +52,7 @@ return array (
   'What will the money be spent on?' => '',
   'Year' => '',
   'You can`t edit the poll because people have already voted.' => '',
-  'You participate in the life of' => '',
+  'You participate in the life of' => 'Is this your city?',
   'Your passport details are pending. Please wait.' => '',
   'female' => '',
   'male' => '',

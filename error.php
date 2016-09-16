@@ -126,7 +126,7 @@ return array (
   'You must confirm the email address provided during registration ' => '',
   'You must specify the location on the map ' => '',
   'cannot be blank' => '',
-  'try again later' => '',
+  'try again later' => 'Sorry, something went wrong. Please try again later.',
   '{attribute} is too long (maximum is {max} characters).' => '',
   '{tag} feature is turned off by the configuration' => '',
 );
