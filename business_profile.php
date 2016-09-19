@@ -213,7 +213,7 @@ return array (
   'an author or a participant of public project' => '',
   'an idea or a project useful for the society' => '',
   'another 10 ' => '',
-  'appeals' => '',
+  'appeals' => 'petitions',
   'cancel' => '',
   'characters' => '',
   'confirm the phone number' => '',

@@ -22,7 +22,7 @@ return array (
   'Also recently posted' => '',
   'Another city' => '',
   'Appeal`s supporters' => '',
-  'Appeals' => '',
+  'Appeals' => 'Petitions',
   'Application for MPG' => '',
   'Applications for MPG' => '',
   'Applications to attract the attention of your group' => '',

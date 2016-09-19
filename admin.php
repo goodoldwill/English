@@ -105,7 +105,7 @@ return array (
   'Appeal found' => '',
   'Appeal published ' => '',
   'Appeal:' => '',
-  'Appeals' => '',
+  'Appeals' => 'Petitions',
   'Appeal’s ID' => '',
   'Applications MPG' => '',
   'Apply' => '',

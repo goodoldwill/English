@@ -31,7 +31,7 @@ return array (
   'An expert in the field of transport in Anton Buslov prepare prisoners for the user on the tram rails in Krasnoyarsk.' => '',
   'Answer' => '',
   'Any idea how to make the city better? Tell us about it on ' => '',
-  'Appeals' => '',
+  'Appeals' => 'Petitions',
   'Are you an active resident of the city, and are ready to participate in improving it? Find out what you will be useful to ' => '',
   'Are you sure you want to delete this image?' => '',
   'Children`s porches Project found on ' => '',
