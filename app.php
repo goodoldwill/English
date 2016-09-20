@@ -933,6 +933,7 @@ return array (
   'The participants will be able to transfer donations to other actions.' => '',
   'The password was successfully changed' => '',
   'The petition is in progress' => '',
+  'The photo has been uploaded correctly' => '',
   'The phone number is successfully confirmed ' => '',
   'The poll is deleted' => '',
   'The postal address or e-mail must exist' => '',
