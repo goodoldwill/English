@@ -1063,5 +1063,5 @@ return array (
   '↳comments' => '',
   '↳comments on crowdfunding' => '',
   '↳comments on events' => '',
-  'Enter the author of the photo/video' => 'Indica l’autor de la foto o vídeo',
+  'Enter the author of the photo/video' => '',
 );

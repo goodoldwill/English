@@ -59,7 +59,7 @@ return array (
   'Distribute your votes among the best projects!' => '',
   'Edit' => '',
   'Elija los mejores proyectos' => '',
-  'Enter the author of the photo/video' => 'Indica l’autor de la foto o vídeo',
+  'Enter the author of the photo/video' => '',
   'For projects of voting residents of the city ' => '',
   'For projects vote urban residents of the Kirov region, participating in the ' => '',
   'For projects vote urban residents of the Krasnoyarsk Territory, {br /}participating in the grant program in 2014 ' => '',
