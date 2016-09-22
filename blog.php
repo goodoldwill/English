@@ -109,7 +109,7 @@ return array (
   'My groups - ' => '',
   'My places - ' => '',
   'New password - ' => '',
-  'News Feed' => 'Novetats',
+  'News Feed' => '',
   'News Yoda ' => '',
   'News on Yoda' => '',
   'Open Data' => '',
